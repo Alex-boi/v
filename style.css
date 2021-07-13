@@ -1,0 +1,52 @@
+body{
+  text-align:center;
+  background-color:aliceblue;
+}
+#t{
+ font-size: 19;
+color:black;
+}
+#video{
+    text-align: center;
+   background: linear-gradient(#80D8FF 0%,#009688 100%);
+  background-repeat:no repeat; 
+}
+#books{
+    text-align:center;
+    background-color: azure;
+}
+#y{
+    height:100px;
+    width:100px;
+}
+.my_nav_bar{
+    position: sticky;
+    top:0px;
+    z-index: 999;
+}
+#mynavbar{
+    background-color:#E1BEE7; 
+}
+#ellie{
+    background-color:#F8BBD0; 
+}
+#m{
+    background-color:#9FA8DA; 
+}
+#inh{
+    text-align: center;
+    background: linear-gradient(#F8BBD0 0%,#FFF59D 100%);
+}
+#home{
+   text-align: center;
+  background: linear-gradient(#7986CB 0%,#81D4FA 100%);
+  background-repeat:no repeat;   
+}
+#img{
+    height:300px;
+    width:300px;
+}
+#mo{
+    height:300px;
+    width:400px;
+}
